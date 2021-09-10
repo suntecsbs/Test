@@ -1,0 +1,4 @@
+# incclude stdio.h
+# include conio.h
+std.ot
+std.in
